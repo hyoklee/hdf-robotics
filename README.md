@@ -1,4 +1,4 @@
 # hdf-robotics
-HDF Robotics Information Center
+HDF-Robotics Information Center
 
 * https://github.com/Red-Rabbit-Robotics
