@@ -2,6 +2,7 @@
 
 HDF-Robotics Information Center
 
+* https://www.agile-robots.com
 * https://www.clonerobotics.com/
 * https://github.com/LeCAR-Lab/ASAP
 * https://advanced.farm/
