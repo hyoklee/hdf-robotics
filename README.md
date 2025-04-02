@@ -2,6 +2,7 @@
 
 HDF-Robotics Information Center
 
+* [Liquid Robot](https://www.youtube.com/watch?v=yQhKPlcOaJ8)
 * https://www.agile-robots.com
 * https://www.clonerobotics.com/
 * https://github.com/LeCAR-Lab/ASAP
