@@ -3,6 +3,9 @@
 HDF-Robotics Information Center
 
 * https://www.openrobotics.org/
+* [Liquid Robot](https://www.youtube.com/watch?v=yQhKPlcOaJ8)
+* https://www.agile-robots.com
+* https://www.clonerobotics.com/
 * https://github.com/LeCAR-Lab/ASAP
 * https://advanced.farm/
 * https://www.silicon-mobility.com/products/olea-fpcu/acu-u310/
