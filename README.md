@@ -2,6 +2,7 @@
 
 HDF-Robotics Information Center
 
+* [Bee Robot](https://www.science.org/doi/10.1126/scirobotics.adq3059)
 * https://www.rlwrld.ai/
 * https://www.openrobotics.org/
 * [Liquid Robot](https://www.youtube.com/watch?v=yQhKPlcOaJ8)
