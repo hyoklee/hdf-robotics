@@ -13,3 +13,8 @@ HDF-Robotics Information Center
 * https://www.silicon-mobility.com/products/olea-fpcu/acu-u310/
 * https://github.com/Red-Rabbit-Robotics
 * https://ifr.org/ifr-press-releases/news/global-robotics-race-korea-singapore-and-germany-in-the-lead
+
+## Arm
+
+* [SO-ARM100](https://github.com/TheRobotStudio/SO-ARM100)
+* [Star AI Robot Arm](https://wiki.seeedstudio.com/lerobot_starai_arm/)
