@@ -22,6 +22,7 @@ HDF-Robotics Information Center
 * [Agile Robots](https://www.agile-robots.com)
 * [CNH](https://www.cnh.com/)
 * [CLONE](https://www.clonerobotics.com/)
+* [Maxwave](https://www.maxwavelaser.com/)
 * [Open Robotics](https://www.openrobotics.org/)
 * [RLWRLD](https://www.rlwrld.ai/)
 
