@@ -20,6 +20,7 @@ HDF-Robotics Information Center
 ## Company
 
 * [Agile Robots](https://www.agile-robots.com)
+* [BONE](https://www.bonerobotics.ai/)
 * [CNH](https://www.cnh.com/)
 * [CLONE](https://www.clonerobotics.com/)
 * [Maxwave](https://www.maxwavelaser.com/)
