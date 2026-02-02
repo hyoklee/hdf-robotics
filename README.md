@@ -26,6 +26,7 @@ HDF-Robotics Information Center
 * [Maxwave](https://www.maxwavelaser.com/)
 * [Open Robotics](https://www.openrobotics.org/)
 * [RLWRLD](https://www.rlwrld.ai/)
+* [AKILD AI](https://www.skild.ai/)
 
 ## Project
 
